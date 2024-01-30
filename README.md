@@ -1,5 +1,8 @@
 ![rodeokit-high-resolution-logo-transparent](https://github.com/Unreal-Kingdoms/RKE-Cluster-Template/assets/34868944/da133030-d8e6-412f-aecb-e78f3266e64c)
 
+<p align="center">
+<img src="https://github.com/Unreal-Kingdoms/RodeoKit/assets/34868944/08ef42e3-aced-40f4-98f6-4a4bba09d98c" width="25%" />
+</p>
 
 # RodeoKit: The Rancher Kubernetes Wrangler
 
