@@ -8,8 +8,10 @@
 
 RodeoKit is an open-source toolkit designed to enhance and simplify the management of Rancher Kubernetes Engine (RKE) environments. Whether you're a seasoned rancher or just starting your Kubernetes journey, RodeoKit provides a set of tools to make working with RKE more efficient and enjoyable.
 
+
 > [!WARNING]
-> RodeoKit is an **experimental** package. It is subject to change and intended only for evaluation purposes.
+> RodeoKit is an **experimental** system. It is subject to change and intended only for evaluation purposes.
+
 
 ## Features
 
